@@ -1,0 +1,4 @@
+name: spawners-plugin
+version: 0.0.1-SNAPSHOT
+main: com.github.xinuwiz.spawners.SpawnersPlugin
+author: xinuwiz
